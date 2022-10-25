@@ -718,7 +718,6 @@ C:\Users\Darth\Documents\Prog\Git\-ASP.NET-Projects\SalesWebMvc\SalesWebMvc\bin\
 C:\Users\Darth\Documents\Prog\Git\-ASP.NET-Projects\SalesWebMvc\SalesWebMvc\bin\Debug\net461\System.Xml.XmlSerializer.dll
 C:\Users\Darth\Documents\Prog\Git\-ASP.NET-Projects\SalesWebMvc\SalesWebMvc\bin\Debug\net461\System.Xml.XPath.dll
 C:\Users\Darth\Documents\Prog\Git\-ASP.NET-Projects\SalesWebMvc\SalesWebMvc\bin\Debug\net461\System.Xml.XPath.XDocument.dll
-C:\Users\Darth\Documents\Prog\Git\-ASP.NET-Projects\SalesWebMvc\SalesWebMvc\obj\Debug\net461\SalesWebMvc.csproj.AssemblyReference.cache
 C:\Users\Darth\Documents\Prog\Git\-ASP.NET-Projects\SalesWebMvc\SalesWebMvc\obj\Debug\net461\SalesWebMvc.exe.config
 C:\Users\Darth\Documents\Prog\Git\-ASP.NET-Projects\SalesWebMvc\SalesWebMvc\obj\Debug\net461\SalesWebMvc.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Darth\Documents\Prog\Git\-ASP.NET-Projects\SalesWebMvc\SalesWebMvc\obj\Debug\net461\SalesWebMvc.AssemblyInfoInputs.cache
