@@ -751,3 +751,5 @@ C:\Users\Darth\Documents\Prog\Git\-ASP.NET-Projects\SalesWebMvc\SalesWebMvc\obj\
 C:\Users\Darth\Documents\Prog\Git\-ASP.NET-Projects\SalesWebMvc\SalesWebMvc\obj\Debug\net461\SalesWebMvc.csproj.CopyComplete
 C:\Users\Darth\Documents\Prog\Git\-ASP.NET-Projects\SalesWebMvc\SalesWebMvc\obj\Debug\net461\SalesWebMvc.exe
 C:\Users\Darth\Documents\Prog\Git\-ASP.NET-Projects\SalesWebMvc\SalesWebMvc\obj\Debug\net461\SalesWebMvc.pdb
+C:\Users\Darth\Documents\Prog\Git\-ASP.NET-Projects\SalesWebMvc\SalesWebMvc\obj\Debug\net461\SalesWebMvc.csproj.AssemblyReference.cache
+C:\Users\Darth\Documents\Prog\Git\-ASP.NET-Projects\SalesWebMvc\SalesWebMvc\obj\Debug\net461\Razor\Views\Sellers\Delete.cshtml.g.cs
